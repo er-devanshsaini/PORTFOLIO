@@ -1,6 +1,11 @@
 # Devansh Saini – Cybersecurity Portfolio
 
+<p align="center">
+  <img src="./public/assets/images/portfolio-preview.png" alt="Portfolio Preview" width="100%">
+</p>
+
 A modern and interactive cybersecurity portfolio built to showcase my skills, projects, and experience in security analysis, threat detection, and web security.
+
 
 ## About
 
